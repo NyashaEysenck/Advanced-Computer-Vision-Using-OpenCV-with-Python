@@ -31,4 +31,4 @@ This repository showcases various computer vision projects using OpenCV and Medi
 Each folder contains an `Example usage` subfolder demonstrating the projects in action.
 
 ## Acknowledgements
-These projects are based on tutorials from the [Murtaza Hassan YouTube Channel](https://www.youtube.com/@murtazasworkshop). Special thanks to Murtaza Hassan for providing the inspiration and guidance for these projects.
+These projects are based on tutorials from the [Murtaza Hassan YouTube Channel](https://www.youtube.com/@murtazasworkshop). Special thanks to Murtaza Hassan for providing the guidance for these projects.
